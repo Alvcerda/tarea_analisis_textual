@@ -1,6 +1,6 @@
 ## Marco General
 
-Bienvenido a la tarea de anotación de productos de Mercado Público. En esta tarea te, en cada registro te presentamos un texto que describe un producto vendido y te pediremos que lo clasifiques con una categoría general. Utilizaremos estos datos para construir un algoritmo que sea capaz de reconocer la categoría de un producto, en base a los textos que lo describen 
+Bienvenido a la tarea de anotación de productos de Mercado Público. En esta tarea te presentamos un texto que describe un producto vendido y te pediremos que lo clasifiques con una categoría general. Utilizaremos estos datos para construir un algoritmo que sea capaz de reconocer la categoría de un producto, en base a los textos que lo describen 
 
 ## Conceptos
 
@@ -8,8 +8,8 @@ Nos gustaría que clasificaras cada producto  en alguna de las siguientes catego
 
 ### Clases o Categorías
 Por cada producto, por favor selecciona alguna de las siguientes categorías.
- * **CREDENCIALES**: Existen procesos dentro de las actividades que realizan los Servicios Públicos, que requieren que quien lo esté realizando porte una identificación, generalmente esta corresponde a una credencial. Ejemplo de esta categoría son los siguientes textos:
-   *  "credenciales postulantes despachar a plaza prat 570  iquique hojas o folletos de instrucciones 1223790  folleto     1249795 productos impresos y publicaciones medios impresos publicaciones impresas"  
+ * **CREDENCIALES**: Existen procesos dentro de las actividades que realizan los Servicios Públicos, que requieren que quién lo esté realizando porte una identificación, generalmente esta corresponde a una credencial. Ejemplo de esta categoría son los siguientes textos:
+   *  "credenciales postulantes despachar a plaza prat 570  iquique hojas o folletos de instrucciones 1223790  folleto 1249795 productos impresos y publicaciones medios impresos publicaciones impresas"  
    *  "adquisición de credenciales identificatorias 200 credenciales identificatorias  según diseño adjunto  y accesorios complementarios  requeridas con motivo de programa promoción de la comuna y posicionamiento de la imagen institucional  decreto n°1 276 de fecha 08 de septiembre de 2021 marcadores de identificación credencial pvc impresa en alta calidad  full color por ambos lados  en tamaño carnet  según diseño referencial adjunto  diseño definitivo será enviado junto a orden de compra productos impresos y publicaciones etiquetado y accesorios etiquetado" 
    
 * **ESTAMPILLAS MUNICIPALES**: Los municipios requieren de estampillas para franqueo. Ejemplo de esta categoría son los siguientes textos:
